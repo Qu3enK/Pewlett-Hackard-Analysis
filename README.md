@@ -12,23 +12,36 @@ As part of the effort, specific criteria was set to determine an employee's elig
 Based on the criteria set forth and additional information we determined the following:
 - A total of 72,458 current employees are eligible for retirement.
 - Senior Engineers (36%) and Senior Staff (34%) account for the majority of employees eligible for retirement. We would need to focus a significant amount of training in these positions.
-- There are 2 Managers eligible for retirement as such we
-- There are 1,549 employees eligible for the mentorship program. There would need to be an increase in mentors to ensure adequate coverage for each area.
+- There are 2 Managers eligible for retirement.
+- There are 1,549 employees eligible for the mentorship program. 
+
+![CountByTitle_Eligible Retirees](https://user-images.githubusercontent.com/112449480/197843844-75531097-ae42-49ef-a942-81c79e1d72e2.png)
+
+<sub>Fig.1 - Number of Eligible Retirees by Title</sub>
+
+
+## Summary
+In summary, there are over 72,000 roles that will be impacted as a result of the "silver tsunami". The roles are across all departments with the largest impact being the Development, Production and Sales departments, approximately 45,876 roles.
+
+
+<sub>Fig.2 - Number of Eligible Retirees by Title per Department</sub>
+
+![TitleByDept_EligibleRetirees](https://user-images.githubusercontent.com/112449480/197846131-ebbc8578-26b9-46fb-9eb6-26ebbb217433.png)
 
 
 
-INSERT 2 TABLE FINAL DEL 1 & 2 TABLES
+<sub>Fig.3 - Code for Eligible retirees titles by Department.</sub>
+
+![SQLCode_TitleByDept](https://user-images.githubusercontent.com/112449480/197849244-3d3f75e5-a8a3-4fe6-832c-9e660bf54ce1.png)
 
 
 
 
-## Summary - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the
-upcoming "silver tsunami
 
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+There are 1,549 qualified, retirement-ready employees for the mentorship program.  There would need to be an increase in mentors to ensure adequate coverage for each area.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 
 
 
