@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Pewlett Hackard(PH) is a large company with over 300,000 employees. As the baby boomers began to retire, the company is preparing for the furture in 2 ways 1) offering a retirement package for eligible employees and 2) considering position fulfillment.  As part of the effort Bobby and I have been tasked with determining the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. [^1]  Utlizing data from 6 table (Fig.1), we will analyze the information to assist PH prepare for the  "silver tsunami" and the future.
+Pewlett Hackard(PH) is a large company with over 300,000 employees. As the baby boomers began to retire, the company is preparing for the furture in 2 ways 1) offering a retirement package for eligible employees and 2) considering position fulfillment.  As part of the effort Bobby and I have been tasked with determining the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. [^1]  Utilizing data from 6 tables (Fig.1), we will analyze the information to assist PH in preparing for the  "silver tsunami" and the future.
 
 
 <sub>Fig.1 - ERD</sub>
