@@ -45,13 +45,19 @@ There are 1,549 qualified, retirement-ready employees for the mentorship program
 
 
 
-Further analysis of the salaries of the eligible retirees
+Further analysis on salary data for eligible retirees, shows that PH would save approximately $3.8 billion.  The potential savings could be reinvested in the company for future endeavors such as 
+- Mentorship program
+- Examine the roles to determine which roles will be back-filled
+- Provide incentives for employees
 
 <sub>Fig.5 - Total Salaries by Title for Eligible Retirees.</sub>
 
 ![TotalSalaryByTitle_EligibleRetirees](https://user-images.githubusercontent.com/112449480/197896141-522b2446-8e66-45c9-83f3-140a92749c6b.png)
 
 
+<sub>Fig.6 - Code for Total Salaries by Title for Eligible Retirees.</sub>
+
+![SQLCode_TotalSalaryByTitle](https://user-images.githubusercontent.com/112449480/198107221-81268e3d-a9be-45cf-9f9a-889ee6c92e74.png)
 
 
 [^1]: Utilize some of description from Module 7 work to assist in writing my background for the Challenge 
